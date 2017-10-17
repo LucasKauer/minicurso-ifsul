@@ -6,6 +6,7 @@ Repositório utilizado para minicurso ministrado no dia 18/10/2017 na Semana Aca
   1. [Instalando a Java 8 (JDK)](#java8)
   1. [Instalando o Eclipse](#eclipse)
 
+<a name="java8"></a>
 ### Instalando o Java 8 (JDK)
 
   1. Acesse a página de downloads da Oracle [clicando aqui](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
